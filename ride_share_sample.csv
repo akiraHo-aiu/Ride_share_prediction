@@ -1,0 +1,5 @@
+season,holiday,workingday,weather,temp,atemp,humidity,windspeed,casual,registered,count
+1,0,0,1,9.84,14.395,81,0,3,13,16
+1,0,0,1,9.02,13.635,80,0,8,32,40
+1,0,0,1,9.02,13.635,80,0,5,27,32
+3,0,0,1,36.9,40.91,37,15.0013,114,319,433
